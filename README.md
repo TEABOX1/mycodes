@@ -1,2 +1,2 @@
 # mycodes
-Repository for study, shearing with my team
+Repository for study and shearing with my team
